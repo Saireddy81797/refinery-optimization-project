@@ -1,58 +1,57 @@
 <!-- Project Header with Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9-blue?logo=python" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/MATLAB-Optimization-orange?logo=mathworks" alt="MATLAB Badge"/>
   <img src="https://img.shields.io/badge/Plotly-Interactive%20Visualization-9cf?logo=plotly" alt="Plotly Badge"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-Refinery%20Optimization-success" alt="Data Analytics Badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-Process%20Optimization-success" alt="Data Analytics Badge"/>
+  <img src="https://img.shields.io/badge/Refinery%20Optimization-Energy%20Efficiency-orange" alt="Refinery Badge"/>
 </p>
 
-<h1 align="center">🏭 Data-Driven Optimization of Crude Oil Refinery Operations Using Python
+<h1 align="center">🏭 Data-Driven Optimization of Crude Oil Refinery Operations Using Python</h1>
 
 ---
 
 ## 📌 Overview
-This project focuses on applying **data analytics and optimization techniques** to enhance the performance of a **crude oil distillation unit** in a refinery.  
-Using real process parameters such as **temperature, pressure, and feed composition**, the model identifies optimal operating conditions to **maximize yield**, **minimize energy consumption**, and **reduce inefficiencies**.
+This project applies **data analytics and optimization techniques** to enhance the performance of a **crude oil distillation process**.  
+By analyzing real process data such as **temperature, pressure, and feed composition**, the model identifies **optimal operating conditions** to maximize yield and reduce energy consumption.
 
 ---
 
 ## 🎯 Key Objectives
-- Analyze refinery operational data to identify **bottlenecks and inefficiencies**.  
-- Develop **predictive models** to estimate product yield based on varying process conditions.  
-- Use **Python (Pandas, NumPy, Scikit-learn)** for statistical modeling and data visualization.  
-- Employ **MATLAB optimization algorithms** for parameter tuning and process control.  
-- Visualize results via **interactive 3D surface plots** using Plotly and deploy via **GitHub Pages**.  
+- Perform **data-driven analysis** of refinery process parameters.  
+- Build **predictive regression models** to estimate yield under varying conditions.  
+- Implement **Python-based optimization** for throughput and energy efficiency.  
+- Generate **interactive 3D yield surface visualizations** using Plotly.  
+- Deploy the analytical report and interactive visualization via **GitHub Pages**.  
 
 ---
 
 ## 🧠 Methodology
 
 ### 1️⃣ Data Collection & Cleaning
-- Process parameters (temperature, pressure, reflux ratio) were collected and cleaned.  
-- Treated missing values and outliers using robust statistical techniques.  
+- Compiled real refinery operational data from process logs.  
+- Handled missing values, outliers, and normalized the dataset for consistent scaling.  
 
 ### 2️⃣ Exploratory Data Analysis (EDA)
-- Identified relationships between key variables using **correlation matrices** and **scatter plots**.  
-- Conducted **multivariate regression** to evaluate dependency of yield on control parameters.  
+- Analyzed process behavior using **correlation heatmaps** and **pairwise plots**.  
+- Identified key influencing variables affecting product yield.  
 
 ### 3️⃣ Predictive Modeling
-- Built regression and polynomial models to estimate **yield behavior**.  
-- Validated models using **R² scores** and **residual error analysis**.  
+- Built **multiple linear and polynomial regression models** to predict yield.  
+- Evaluated model accuracy using **R² scores**, **RMSE**, and **residual plots**.  
 
-### 4️⃣ Optimization & Simulation
-- Applied **MATLAB-based optimization algorithms** to derive optimal setpoints for energy efficiency.  
-- Simulated yield response and visualized **3D yield surfaces** in Python.  
+### 4️⃣ Optimization & Visualization
+- Generated **interactive 3D yield surfaces** using Plotly.  
+- Highlighted regions of maximum yield with respect to **temperature and pressure**.  
 
-### 5️⃣ Visualization & Deployment
-- Created **interactive 3D yield plots** (`interactive_yield_3D.html`) using Plotly.  
-- Deployed the visualization publicly using **GitHub Pages**.  
+### 5️⃣ Deployment
+- Deployed the complete visualization (`index.html`) using **GitHub Pages** for public access.  
 
 ---
 
 ## 💡 Project Impact
-✅ Improved operational efficiency by identifying **process bottlenecks**.  
-✅ Suggested **optimal control settings** for energy and cost reduction.  
-✅ Delivered actionable insights aligned with **refinery and petrochemical operations**.  
+✅ Improved process efficiency by **identifying key operational bottlenecks**.  
+✅ Provided **actionable insights** for optimizing control parameters.  
+✅ Demonstrated strong **data analytics, visualization, and problem-solving** skills aligned with energy and manufacturing domains.  
 
 ---
 
@@ -60,19 +59,18 @@ Using real process parameters such as **temperature, pressure, and feed composit
 
 | Category | Tools / Libraries |
 |-----------|------------------|
-| Programming | Python, MATLAB |
+| Programming | Python |
 | Data Analysis | Pandas, NumPy, Scikit-learn |
 | Visualization | Matplotlib, Plotly |
-| Optimization | SciPy, MATLAB Optimizer |
+| Optimization | SciPy |
 | Deployment | GitHub Pages |
 
 ---
 
 ## 📊 Outputs
-
-- 🧩 **Interactive Yield Surface** – 3D visualization of yield vs. temperature and pressure  
-- 📈 **Correlation Map** – Highlights key process relationships  
-- 📄 **Optimization Report** – JSON summary of model and yield predictions  
+- 🧩 **Interactive 3D Yield Surface** – Yield variation with process parameters  
+- 📈 **Correlation Map** – Insights into relationships between key variables  
+- 📄 **Optimization Report** – Summarized model performance and insights  
 
 ---
 
@@ -86,7 +84,7 @@ Using real process parameters such as **temperature, pressure, and feed composit
 **Byreddy Sai Reddy**  
 📧 [Your Email ID]  
 💼 [LinkedIn Profile Link]  
-🧠 Aspiring Data Scientist | Process Optimization & Analytics Enthusiast  
+🧠 Aspiring Data Analyst | Data-Driven Optimization Enthusiast  
 
 ---
 

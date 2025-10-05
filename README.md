@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Data%20Analytics-Refinery%20Optimization-success" alt="Data Analytics Badge"/>
 </p>
 
-<h1 align="center">🏭 Data-Driven Optimization of Crude Oil Refinery Operations Using Python and MATLAB</h1>
+<h1 align="center">🏭 Data-Driven Optimization of Crude Oil Refinery Operations Using Python
 
 ---
 

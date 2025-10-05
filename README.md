@@ -80,14 +80,6 @@ By analyzing real process data such as **temperature, pressure, and feed composi
 
 ---
 
-## 👨‍💻 Author
-**Byreddy Sai Reddy**  
-📧 [Your Email ID]  
-💼 [LinkedIn Profile Link]  
-🧠 Aspiring Data Analyst | Data-Driven Optimization Enthusiast  
-
----
-
 ## ⭐ How to Run Locally
 ```bash
 git clone https://github.com/Saireddy81797/refinery-optimization-project.git
